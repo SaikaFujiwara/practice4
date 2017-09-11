@@ -1,15 +1,15 @@
 .header{
-	border:1px solid gray;
+	border:1px solid yellow;
 }
 
 .footer{
-	border:1px solid gray;
+	border:1px solid yellow;
 }
 
 .body{
-	border:1px solid black;
+	border:1px solid pink;
 }
 
 .head{
-	border:1px solid black;
+	border:1px solid pink;
 }
